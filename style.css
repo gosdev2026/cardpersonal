@@ -15,8 +15,8 @@ body {
 }
 
 .container {
-  padding-top: 50vh;
-  padding-bottom: 50vh;
+  padding-top: 40vh;
+  padding-bottom: 40vh; 
   display: flex;
   justify-content: center;
   align-content: center;
@@ -40,7 +40,7 @@ body {
   justify-content: start;
   width: 200px;
   height: 200px;
-  background-image: url(./img/foto2026.jpg);
+  background-image: url(./img/pic.jpg);
   background-size: cover;
 }
 
